@@ -51,3 +51,6 @@
 	path = roles/apps/k8s-pgbouncer
 	url = https://github.com/ansibl8s/k8s-pgbouncer.git
 	branch = v1.0
+[submodule "roles/apps/k8s-rocketchat"]
+	path = roles/apps/k8s-rocketchat
+	url = https://github.com/ansibl8s/k8s-rocketchat.git
